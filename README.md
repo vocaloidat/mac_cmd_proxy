@@ -1,1 +1,1 @@
-# mac_cmd_proxy
+# mac终端代理设置自用
